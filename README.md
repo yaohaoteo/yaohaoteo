@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yaohaoteo
 - 👀 I’m interested in data science and automation.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on data science projects.
+- 💞️ I’m attached to malcolm my data science buddy.
 - 📫 How to reach me teoyaohao@gmail.com
 
 <!---
