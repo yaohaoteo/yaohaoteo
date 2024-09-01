@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @yaohaoteo
+- 👋 Hi, I’m @yaohaoteo a doctor in Singapore. 
 - 👀 I’m interested in data science and automation.
-- 🌱 I’m currently learning python.
-- 💞️ I’m attached to malcolm my data science buddy.
+- 🌱 I’m currently a Master Student at University of Pittsburg.
 - 📫 How to reach me teoyaohao@gmail.com
 
 <!---
